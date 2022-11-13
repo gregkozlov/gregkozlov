@@ -1,10 +1,10 @@
 <h1 align="center">Hello! I’m Gregory, 28 y.o. frontend dev</h1>
 
-🌱 I’m interested in process of creating websites and apps.
+# I’m interested in process of creating websites and apps.
 
-🌱 I’m currently working with TypeScript, React, Redux.
+# I’m currently working with TypeScript, React, Redux.
 
-🌱 I’m looking to collaborate on different projects.
+# I’m looking to collaborate on different projects.
 
 E-mail: mr.gregkozlov@gmail.com
 Telegram: https://t.me/gregkozlov
