@@ -1,4 +1,4 @@
-<h2 align="center">Hello! I’m Gregory, Frontend Developer</h2>
+## Hello! I’m Gregory, Frontend Developer
 
 ---
 
