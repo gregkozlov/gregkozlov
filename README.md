@@ -1,6 +1,4 @@
-## Hello! I’m Gregory, Frontend Developer
-
----
+<h2 align="center">Hello! I’m Gregory, Frontend Developer</h2>
 
 - I’m interested in process of creating websites and apps.
 - I’m currently working with TypeScript, React, Redux.
@@ -9,8 +7,6 @@
 E-mail: mr.gregkozlov@gmail.com
 </br>
 Telegram: https://t.me/gregkozlov
-
----
 
 ### My Technology Stack:
 
