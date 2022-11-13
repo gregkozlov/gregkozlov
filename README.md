@@ -1,20 +1,21 @@
-### Hi there 👋
+<h1 align="center">Hello! I’m Gregory, 28 y.o. frontend dev</h1>
 
-<!--
-**GregKozlov/gregkozlov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m interested in process of creating websites and apps.
 
-Here are some ideas to get you started:
+🌱 I’m currently working with TypeScript, React, Redux.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m looking to collaborate on different projects.
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=gregkozlov&count_private=true&show_icons=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+E-mail: mr.gregkozlov@gmail.com
+Telegram: https://t.me/gregkozlov
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gregkozlov&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+### My Technology Stack:
+![HTML5](https://img.shields.io/badge/-HTML5-011?&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-011?&logo=CSS3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-011?&logo=JavaScript)
+![React](https://img.shields.io/badge/-React-011?&logo=React)
+![Redux](https://img.shields.io/badge/Redux-011?logo=redux)
+![TypeScript](https://img.shields.io/badge/-TypeScript-011?&logo=TypeScript)
+![GIT](https://img.shields.io/badge/-GIT-011?&logo=GIT)
+![MongoDB](https://img.shields.io/badge/-MongoDB-011?&logo=MongoDB)
+![Figma](https://img.shields.io/badge/-Figma-011?&logo=Figma)
