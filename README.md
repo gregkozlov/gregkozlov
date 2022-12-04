@@ -1,8 +1,8 @@
 <h2 align="center">Hello! I’m Gregory, Frontend Developer</h2>
 
-- I’m interested in process of creating websites and apps.
-- I’m currently working with TypeScript, React, Redux.
-- I’m looking to collaborate on different projects.
+- Interested in process of creating websites and apps.
+- Currently working with TypeScript, React, Redux.
+- Looking for collaboration on different projects.
 
 E-mail: mr.gregkozlov@gmail.com
 </br>
